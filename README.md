@@ -4,17 +4,6 @@ AI Password Manager
 
 ############################################################
 
-Bypass Windows Smart Screen Warning :
-
-As you download this program from the internet (Github),
-Windows will file it as 'Possibly Malicious'. When you 
-download the file, right-click on the main executable and
-in the general section, click on the check box which says
-'Unblock' which is placed next to the 'Security' Column.
-Lastly, click on 'Apply' and then click on 'Ok' .
-
-############################################################
-
 Note : Requires Working Internet Connection
 
 ############################################################
